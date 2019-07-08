@@ -1,27 +1,3 @@
-##print('Welcome to my ATM')
-##a=input('Enter your name:-')
-##b=int(input('Enter your pass code:-'))
-##
-##users=['anul','chirag','prajjwal','Hritik']
-##pass_code=[111,222,333,444]
-##sav_amount=[100,500,1000,400]
-##
-##
-##if(a in users):
-##    print('Correct name')
-##else:
-##    print("Name doesn't exist")
-##i=
-##if(b in pass_code):
-##    if(users[i]==pass_code[i])
-##        print('login succesfully')
-####if(b in pass_code):
-####    if(user[i]==pass_code[i])
-####                 
-####    print('')
-
-
-
 print('Welcome to my ATM')
 a=input('Enter your name:-')
 b=int(input('Enter your pass code:-'))
